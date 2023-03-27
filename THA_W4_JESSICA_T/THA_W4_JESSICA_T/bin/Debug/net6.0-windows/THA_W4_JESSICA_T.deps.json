@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "THA_W4_JESSICA_T/1.0.0": {
+        "runtime": {
+          "THA_W4_JESSICA_T.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "THA_W4_JESSICA_T/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

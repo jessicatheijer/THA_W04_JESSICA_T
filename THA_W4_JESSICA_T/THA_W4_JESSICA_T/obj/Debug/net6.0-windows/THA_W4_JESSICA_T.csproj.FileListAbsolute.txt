@@ -1,0 +1,17 @@
+C:\Users\windows 10\source\repos\THA_W4_JESSICA_T\THA_W4_JESSICA_T\bin\Debug\net6.0-windows\THA_W4_JESSICA_T.exe
+C:\Users\windows 10\source\repos\THA_W4_JESSICA_T\THA_W4_JESSICA_T\bin\Debug\net6.0-windows\THA_W4_JESSICA_T.deps.json
+C:\Users\windows 10\source\repos\THA_W4_JESSICA_T\THA_W4_JESSICA_T\bin\Debug\net6.0-windows\THA_W4_JESSICA_T.runtimeconfig.json
+C:\Users\windows 10\source\repos\THA_W4_JESSICA_T\THA_W4_JESSICA_T\bin\Debug\net6.0-windows\THA_W4_JESSICA_T.dll
+C:\Users\windows 10\source\repos\THA_W4_JESSICA_T\THA_W4_JESSICA_T\bin\Debug\net6.0-windows\THA_W4_JESSICA_T.pdb
+C:\Users\windows 10\source\repos\THA_W4_JESSICA_T\THA_W4_JESSICA_T\obj\Debug\net6.0-windows\THA_W4_JESSICA_T.csproj.AssemblyReference.cache
+C:\Users\windows 10\source\repos\THA_W4_JESSICA_T\THA_W4_JESSICA_T\obj\Debug\net6.0-windows\THA_W4_JESSICA_T.Form1.resources
+C:\Users\windows 10\source\repos\THA_W4_JESSICA_T\THA_W4_JESSICA_T\obj\Debug\net6.0-windows\THA_W4_JESSICA_T.csproj.GenerateResource.cache
+C:\Users\windows 10\source\repos\THA_W4_JESSICA_T\THA_W4_JESSICA_T\obj\Debug\net6.0-windows\THA_W4_JESSICA_T.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows 10\source\repos\THA_W4_JESSICA_T\THA_W4_JESSICA_T\obj\Debug\net6.0-windows\THA_W4_JESSICA_T.AssemblyInfoInputs.cache
+C:\Users\windows 10\source\repos\THA_W4_JESSICA_T\THA_W4_JESSICA_T\obj\Debug\net6.0-windows\THA_W4_JESSICA_T.AssemblyInfo.cs
+C:\Users\windows 10\source\repos\THA_W4_JESSICA_T\THA_W4_JESSICA_T\obj\Debug\net6.0-windows\THA_W4_JESSICA_T.csproj.CoreCompileInputs.cache
+C:\Users\windows 10\source\repos\THA_W4_JESSICA_T\THA_W4_JESSICA_T\obj\Debug\net6.0-windows\THA_W4_JESSICA_T.dll
+C:\Users\windows 10\source\repos\THA_W4_JESSICA_T\THA_W4_JESSICA_T\obj\Debug\net6.0-windows\refint\THA_W4_JESSICA_T.dll
+C:\Users\windows 10\source\repos\THA_W4_JESSICA_T\THA_W4_JESSICA_T\obj\Debug\net6.0-windows\THA_W4_JESSICA_T.pdb
+C:\Users\windows 10\source\repos\THA_W4_JESSICA_T\THA_W4_JESSICA_T\obj\Debug\net6.0-windows\THA_W4_JESSICA_T.genruntimeconfig.cache
+C:\Users\windows 10\source\repos\THA_W4_JESSICA_T\THA_W4_JESSICA_T\obj\Debug\net6.0-windows\ref\THA_W4_JESSICA_T.dll
